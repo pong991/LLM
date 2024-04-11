@@ -1,2 +1,2 @@
 # PubMedGPT
-## 基于zhipuAPI生成实验方案
+## 基于PubMed文献生成实验方案
